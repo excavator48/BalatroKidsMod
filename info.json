@@ -1,0 +1,17 @@
+{
+	"id": "BalatroLifeStyle",
+	"name": "BalatroLifeStyleMod",
+	"display_name": "BalatroLifeStyleMod",
+	"author": ["excavator_48, koshachiy_chips"],
+	"description": "Adds new jokers to Balatro.",
+	"prefix": "",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "708b91",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+		"Talisman (>=2.2.0a)",
+		"Steamodded (>=1.0.0~BETA-0525b)"
+	]
+}
