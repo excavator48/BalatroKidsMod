@@ -3,7 +3,7 @@
 	"name": "BalatroLifeStyleMod",
 	"display_name": "BalatroLifeStyleMod",
 	"author": ["excavator_48, koshachiy_chips"],
-	"description": "Adds new jokers to Balatro.",
+	"description": "A Balatro mod adding jokers suggested by Balatro Life Style community.",
 	"prefix": "",
 	"main_file": "main.lua",
 	"priority": 0,
