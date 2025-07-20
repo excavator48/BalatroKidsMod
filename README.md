@@ -1,2 +1,2 @@
 # Balatro Life Style Mod
-An unbalanced Balatro mod.
+A Balatro mod adding jokers suggested by Balatro Life Style community.
