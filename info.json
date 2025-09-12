@@ -1,15 +1,15 @@
 {
-	"id": "BalatroLifeStyle",
-	"name": "BalatroLifeStyleMod",
-	"display_name": "BalatroLifeStyleMod",
-	"author": ["excavator_48, koshachiy_chips"],
-	"description": "A Balatro mod adding jokers suggested by Balatro Life Style community.",
+	"id": "BalatroKidsMod",
+	"name": "BalatroKidsMod",
+	"display_name": "BalatroKidsMod",
+	"author": ["excavator_48, Balatro Kids Community"],
+	"description": "Adds new jokers to Balatro.",
 	"prefix": "",
 	"main_file": "main.lua",
 	"priority": 0,
 	"badge_colour": "708b91",
 	"badge_text_colour": "FFFFFF",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"dependencies": [
 		"Talisman (>=2.2.0a)",
 		"Steamodded (>=1.0.0~BETA-0525b)"
